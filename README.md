@@ -21,7 +21,9 @@ The unfortunately collapsed resulting structure can be seen at the top left of t
 An example simulation of a 3D-printed cylinder with magnified deformation. One can see the sequential deposition of the material, 
 as well as the passage of the printer's nozzle applying pressure on the section currently being printed.
 
-https://github.com/LordKthulhu/ALERTPoster2023/assets/31048121/172bf053-b372-42fb-b4bc-32f4b970ea4f
+
+https://github.com/LordKthulhu/ALERTPoster2023/assets/31048121/6e2ca507-169d-45f2-b6f4-ae58e5ed6541
+
 
 Simulations are performed through our own code based on open-source codes: [Gmsh](https://gmsh.info) for meshing, [MFront](https://thelfer.github.io/tfel/web/index.html) for constitutive law integration and [FEniCS](https://fenicsproject.org) for the finite element part.
 
