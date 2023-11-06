@@ -1,6 +1,6 @@
 # Hydration-based multi-physics modelling of cementitious materials for 3D printing
 
-Supplementary material for the 33rd ALERT Workshop poster session.  
+Supplementary material for the CREAMS poster session.  
 The digital version of the poster is available in this repository.
 
 Author's contact:  
